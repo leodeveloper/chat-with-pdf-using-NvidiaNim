@@ -1,7 +1,7 @@
 # chat-with-pdf-using-NvidiaNim
 using NvidiaNim to chat with pdf document
 
-![Application Screenshot](https://github.com/leodeveloper/chat-with-pdf-using-NvidiaNim/Nvidia Nim.png)
+![Application Screenshot](https://github.com/leodeveloper/chat-with-pdf-using-NvidiaNim/blob/main/Nvidia%20Nim.png)
 
 # Chat with multiple PDF file using NvidiaNim
 
